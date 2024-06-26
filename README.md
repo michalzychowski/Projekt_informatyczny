@@ -11,7 +11,7 @@ Projekt to prosty model przewidywania populacji Polski lub regionu w oparciu o d
 
 ## Instrukcja uruchomienia
 1. Po instalacji wszystkich wymaganych komponentów sklonować repozytorium komendą `git clone https://github.com/michalzychowski/Projekt_informatyczny.git`
-2. Następnie w konsoli wpisujemy 'jupyter notebook' aby uruchomić Jupyter Notebook
+2. Następnie w konsoli wpisujemy `jupyter notebook` aby uruchomić Jupyter Notebook
 3. Uruchamiamy skrypt w Jupyter Notebook
 
 ## Uwagi
